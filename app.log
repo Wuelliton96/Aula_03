@@ -1,0 +1,5 @@
+{"level":"debug","message":"Esta é uma mensagem de DEBUG.","timestamp":"2024-08-12T23:32:59.043Z"}
+{"level":"info","message":"Esta é uma mensagem de INFO.","timestamp":"2024-08-12T23:32:59.044Z"}
+{"level":"warn","message":"Esta é uma mensagem de WARNING.","timestamp":"2024-08-12T23:32:59.044Z"}
+{"level":"error","message":"Esta é uma mensagem de ERROR.","timestamp":"2024-08-12T23:32:59.044Z"}
+{"level":"error","message":"Esta é uma mensagem de CRITICAL.","timestamp":"2024-08-12T23:32:59.044Z"}
